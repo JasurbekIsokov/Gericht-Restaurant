@@ -21,7 +21,7 @@ const AboutUs = () => (
           adipiscing ultrices vulputate posuere tristique. In sed odio nec
           aliquet eu proin mauris et.
         </p>
-        <button type="button" className="custom__button">
+        <button type="button" className="custom__button btn">
           Know More
         </button>
       </div>
@@ -38,7 +38,7 @@ const AboutUs = () => (
           Risus placerat morbi volutpat habitasse interdum mi aliquam In sed
           odio nec aliquet.
         </p>
-        <button type="button" className="custom__button">
+        <button type="button" className="custom__button btn">
           Know More
         </button>
       </div>

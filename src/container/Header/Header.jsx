@@ -14,13 +14,13 @@ const Header = () => (
         morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
         tellus
       </p>
-      <button type="button" className="custom__button">
+      <button type="button" className="custom__button btn">
         Explore Menu
       </button>
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.welcome} alt="header_img" />
+      <img src={images.welcome} alt="header_img" className="hover__img" />
     </div>
   </div>
 );
